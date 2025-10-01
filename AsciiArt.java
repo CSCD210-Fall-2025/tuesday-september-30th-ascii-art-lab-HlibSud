@@ -11,5 +11,24 @@
 public class AsciiArt {
     public static void main(String[] args) {
         // TODO: Print your ASCII art here, one line per System.out.println/print call
+
+        //screen of a laptop
+        System.out.println(" ______________");
+        System.out.println("||X --------- ||");
+        System.out.println("||    /\\_/\\   ||");
+        System.out.println("||   ( o.o )  ||");
+        System.out.println("||    > ^ <   ||");
+        System.out.println("||____________||");
+        System.out.println("|______________|");
+
+        System.out.println("\\\\#############\\\\");
+        System.out.println(" \\\\#############\\\\");
+        System.out.println("  \\\\_____ ____ __\\\\");
+        System.out.println("   \\\\_____\\___\\___\\\\");
+        
+        
+    }
+    public void screen() {
+        
     }
 }
